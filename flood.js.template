@@ -1,4 +1,4 @@
-// NOTE: this is template, should replace "<INJECT_LIST_OF_URLS_HERE>"
+// NOTE: this is template, should replace "INJECT_LIST_OF_URLS_HERE"
 //  with comma separated and ` joined array list, content should't contain "`"
 //  example: [1,2,3,4].join('`,`') ==> 1`,`2`,`3`,`4
 //
